@@ -13,6 +13,9 @@
 * Advanced Project Management
 * Drone Communications and Jamming Techniques
 * Reverse Engineering
+* Advanced Cryptographic Techniques
+* Digital Forensics
+* Software Security
 
 
 <!--
