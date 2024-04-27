@@ -18,7 +18,7 @@
 * Software Security
 * Crimonology and the dark web
 
-#🔭 I’m currently working on
+# 🔭 I’m currently working on
 * My personaly website
 
 <!--
