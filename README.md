@@ -19,7 +19,7 @@
 * Crimonology and the dark web
 
 # 🔭 I’m currently working on
-* My personaly website
+* My personal website
 
 <!--
 **W8up/W8up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
